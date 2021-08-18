@@ -1,0 +1,10 @@
+{
+   "registries": [
+    {
+      "kind": "filesystem",
+      "baseline": "2021-04-08",
+      "path": "E:/vcpkg/vcpkgtest/registries/filesystem",
+      "packages": [ "beicode", "beison"]
+    }
+  ]
+}
