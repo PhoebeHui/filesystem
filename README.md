@@ -1,3 +1,4 @@
+```
 # filesystem
 Reference https://github.com/vcpkg/example-filesystem-registry
 
@@ -80,3 +81,4 @@ Detecting compiler hash for triplet x86-windows...
 Could not locate cached archive: C:\Users\phoebe\AppData\Local\vcpkg\archives\af\af12a6c0126c79f715ae3940197c60e56a9845ecd605a07c041b0ffe61009e09.zip
 Starting package 1/1: beicode:x86-windows
 ...
+```
